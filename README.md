@@ -11,9 +11,9 @@ An light yet powerful vim configure file for coding and latex writing.
 * Copy this vimrc to $HOME/.vimrc
 
 * Open vim, run 
-
+```
     :PluginInstall
-
+```
 Then wait until its is done.
 
 
