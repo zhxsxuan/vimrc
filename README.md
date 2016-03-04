@@ -10,11 +10,7 @@ An light yet powerful vim configure file for coding and latex writing.
 ## Installing
 * Copy this vimrc to $HOME/.vimrc
 
-* Open vim, run 
-```
-    :PluginInstall
-```
-Then wait until its is done.
+* Open vim, run ``:PluginInstall``, Then wait until its is done.
 
 
 
