@@ -5,7 +5,7 @@ My own Vim configuration. It is light but powerful for coding and latex writing.
 ## Requirements
 * To make all the plugins work, specifically [neocomplete](https://github.com/Shougo/neocomplete.vim), you need [vim with lua](https://github.com/Shougo/neocomplete.vim#requirements).
 
-* [Vundle] is used to manage the plugins. You must install [Vundle] first before you use this configure file.
+* [Vundle] is used to manage the plugins. You must install [Vundle] first before you use this vimrc file.
 
 ## Installing
 * Copy this vimrc to $HOME/.vimrc.
