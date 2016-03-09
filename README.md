@@ -38,9 +38,13 @@ Tagbar is a Vim plugin which help you navigate your code easily via tags. Tagbar
 * `CTRL-]` while the cursor is on a keyword (such as a function name) to jump to its definition. 
 * `Ctrl-T` to jump back.
 
+## [Solarized]
+Solarized is a very beautiful color scheme for Vim and is very popular among programmers.
+
 
 [Vundle]:https://github.com/gmarik/vundle
 [NERDTree]:https://github.com/scrooloose/nerdtree
 [NERDCommenter]:https://github.com/scrooloose/nerdcommenter
 [neocomplete]:https://github.com/shougo/neocomplete
 [Tagbar]:https://github.com/majutsushi/tagbar
+[Solarized]:https://github.com/altercation/vim-colors-solarized
