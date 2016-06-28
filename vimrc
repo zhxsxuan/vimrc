@@ -21,6 +21,7 @@ Plugin 'Shougo/neocomplete.vim'
 Plugin 'Shougo/neosnippet-snippets'
 Plugin 'Shougo/neosnippet.vim'
 Plugin 'majutsushi/tagbar'
+Plugin 'easymotion/vim-easymotion'
 " plugin from http://vim-scripts.org/vim/scripts.html
 "Plugin 'L9'
 " Git plugin not hosted on GitHub

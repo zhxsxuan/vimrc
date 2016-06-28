@@ -24,7 +24,7 @@ NERDTree allows you to explore your filesystem and to open files and directories
 ##[NERDCommenter]
 NERDCommenter allows you to comment multiple lines in a very quick way, regardless of filetype. View `help :NERDCommenter`.
 
-**Quick Start**: Toggle comments using `<Leader>c<space>` in Visual or Normal mode.
+**Quick Start**: Toggle comments using `<leader>c<space>` in Visual or Normal mode.
 
 ##[neocomplete]
 Neocomplete is an amazing autocomplete plugin for Vim. It can complete simulatiously from the dictionary, buffer, omnicomplete and snippets.
@@ -38,6 +38,11 @@ Tagbar is a Vim plugin which help you navigate your code easily via tags. Tagbar
 * `CTRL-]` while the cursor is on a keyword (such as a function name) to jump to its definition. 
 * `Ctrl-T` to jump back.
 
+## [EasyMotion]
+EasyMotion provides a much simpler way to use some motions in vim.
+
+**Quick Start**: `<leader><leader>w`.
+
 ## [Solarized]
 Solarized is a very beautiful color scheme for Vim and is very popular among programmers.
 
@@ -47,4 +52,6 @@ Solarized is a very beautiful color scheme for Vim and is very popular among pro
 [NERDCommenter]:https://github.com/scrooloose/nerdcommenter
 [neocomplete]:https://github.com/shougo/neocomplete
 [Tagbar]:https://github.com/majutsushi/tagbar
+[EasyMotion]:https://github.com/easymotion/vim-easymotion
 [Solarized]:https://github.com/altercation/vim-colors-solarized
+
