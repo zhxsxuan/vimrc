@@ -21,12 +21,12 @@ NERDTree allows you to explore your filesystem and to open files and directories
 * Use `<C-E>` to toggle NERDTree.
 * Use `<leader>e` or `<leader>nt` to load NERDTreeFind which opens NERDTree where the current file is located.
 
-##[NERDCommenter]
+## [NERDCommenter]
 NERDCommenter allows you to comment multiple lines in a very quick way, regardless of filetype. View `help :NERDCommenter`.
 
 **Quick Start**: Toggle comments using `<leader>c<space>` in Visual or Normal mode.
 
-##[neocomplete]
+## [neocomplete]
 Neocomplete is an amazing autocomplete plugin for Vim. It can complete simulatiously from the dictionary, buffer, omnicomplete and snippets.
 
 **Quick Start**: Just start typing, it will autocomplete whenever it is possible.
