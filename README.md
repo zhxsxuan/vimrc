@@ -13,7 +13,7 @@ My own Vim configuration. It is light but powerful for coding and latex writing.
 * Open vim, run ``:PluginInstall``. Then wait until it is done.
 
 # Features
-##[NERDTree]
+## [NERDTree]
 NERDTree allows you to explore your filesystem and to open files and directories. It presents the filesystem to you in the form of a tree which you manipulate with the keyboard and/or mouse. It also allows you to perform simple filesystem operations.  You can learn more about it with
 `:help NERDTree`.
 
