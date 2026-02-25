@@ -2,7 +2,7 @@
 
 BACKUP_DIR=$HOME/.vim.backup
 
-if [ -e $HOME/.vim ] || [ -e $HOME/.vimrc]; then
+if [ -e $HOME/.vim ] || [ -e $HOME/.vimrc ]; then
     mkdir $BACKUP_DIR
     if [ -e $HOME/.vim ]; then
         mv $HOME/.vim $BACKUP_DIR/vim
